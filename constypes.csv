@@ -1,0 +1,63 @@
+﻿metadata,constype,description,conscategory
+Name: constypes_cprd_gold,0,Data Not Entered,not eligible
+Author: Marta Berglund,1,Clinic,facetoface/telephone
+Date: 2025-05-13,2,"Night visit, Deputising service",facetoface/telephone
+Categories:,3,Follow-up/routine visit,facetoface/telephone
+1. facetoface/telephone,4,"Night visit, Local rota",facetoface/telephone
+2. not eligible,5,Mail from patient,not eligible
+,6,"Night visit, practice",facetoface/telephone
+,7,"Out of hours, Practice",facetoface/telephone
+,8,"Out of hours, Non Practice",facetoface/telephone
+,9,Surgery consultation,facetoface/telephone
+,10,Telephone call from a patient,facetoface/telephone
+,11,Acute visit,facetoface/telephone
+,12,Discharge details,not eligible
+,13,Letter from Outpatients,not eligible
+,14,Repeat Issue,not eligible
+,15,Other,not eligible
+,16,Results recording,not eligible
+,17,Mail to patient,not eligible
+,18,Emergency Consultation,facetoface/telephone
+,19,Administration,not eligible
+,20,Casualty Attendance,not eligible
+,21,Telephone call to a patient,facetoface/telephone
+,22,Third Party Consultation,not eligible
+,23,Hospital Admission,not eligible
+,24,Children's Home Visit,facetoface/telephone
+,25,Day Case Report,not eligible
+,26,GOS18 Report,not eligible
+,27,Home Visit,facetoface/telephone
+,28,Hotel Visit,facetoface/telephone
+,29,NHS Direct Report,not eligible
+,30,Nursing Home Visit,facetoface/telephone
+,31,Residential Home Visit,facetoface/telephone
+,32,Twilight Visit,facetoface/telephone
+,33,Triage,facetoface/telephone
+,34,Walk-in Centre,facetoface/telephone
+,35,Co-op Telephone advice,facetoface/telephone
+,36,Co-op Surgery Consultation,facetoface/telephone
+,37,Co-op Home Visit,facetoface/telephone
+,38,Minor Injury Service,not eligible
+,39,Medicine Management,not eligible
+,40,Community Clinic,not eligible
+,41,Community Nursing Note,not eligible
+,42,Community Nursing Report,not eligible
+,43,Data Transferred from other system,not eligible
+,44,Health Authority Entry,not eligible
+,45,Health Visitor Note,not eligible
+,46,Health Visitor Report,not eligible
+,47,Hospital Inpatient Report,not eligible
+,48,Initial Post Discharge Review,facetoface/telephone
+,49,Laboratory Request,facetoface/telephone
+,50,Night Visit,facetoface/telephone
+,51,Radiology Request,facetoface/telephone
+,52,Radiology Result,not eligible
+,53,Referral Letter,facetoface/telephone
+,54,Social Services Report,not eligible
+,55,Telephone Consultation,facetoface/telephone
+,56,Template Entry,facetoface/telephone
+,57,GP to GP communication transaction,not eligible
+,58,Non-consultation medication data,not eligible
+,59,Non-consultation data,not eligible
+,60,ePharmacy message,not eligible
+,61,Extended Hours,not eligible

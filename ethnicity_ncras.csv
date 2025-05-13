@@ -1,0 +1,22 @@
+metadata,category,ethnicity,ethnicity_code
+Name: ethnicity_ncras                             ,Non-White,Asian,H
+Author: Marta Berglund                      ,Non-White,Asian,J
+Date: 2025-05-13                          ,Non-White,Asian,K
+Categories:                                        ,Non-White,Asian,L
+1. White,Non-White,Asian,R
+2. Non-White,Non-White,Black,M
+3. Unknown,Non-White,Black,N
+,Non-White,Black,P
+,Non-White,Mixed,D
+,Non-White,Mixed,E
+,Non-White,Mixed,F
+,Non-White,Mixed,G
+,Non-White,Mixed,GF
+,Non-White,Other,8
+,Non-White,Other,S
+,Non-White,Unknown,X
+,Non-White,Unknown,Z
+,Unknown,Unknown,NA
+,White,White,A
+,White,White,B
+,White,White,C

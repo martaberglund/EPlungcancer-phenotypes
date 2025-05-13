@@ -1,0 +1,77 @@
+metadata,broad_group,specific_group,code,description
+Name: lung_cancer_morphology_icdo3                            ,SCLC,Small cell carcinoma,8041,Small cell carcinoma NOS
+Author: Marta Berglund      ,SCLC,Small cell carcinoma,8042,Oat cell carcinoma
+Date: 2025-05-13                                   ,SCLC,Small cell carcinoma,8045,Small cell-large cell carcinoma
+Categories:                                        ,SCLC,Small cell carcinoma,8044,"Small cell carcinoma, intermediate cell"
+1. SCLC,SCLC,Small cell carcinoma,8043,"Small cell carcinoma, fusiform cell"
+2. NSCLC,SCLC,Small cell carcinoma,8002,"Malignant tumour, small cell type"
+3. Unspecified lung,NSCLC,Adenocarcinoma,8140,Adenocarcinoma NOS
+,NSCLC,Adenocarcinoma,8250,Bronchiolo-alveolar adenocarcinoma
+,NSCLC,Adenocarcinoma,8480,Mucinous adenocarcinoma
+,NSCLC,Adenocarcinoma,8481,Mucin-producing adenocarcinoma
+,NSCLC,Adenocarcinoma,8260,Papillary adenocarcinoma NOS
+,NSCLC,Adenocarcinoma,8550,Acinar cell carcinoma
+,NSCLC,Adenocarcinoma,8251,Alveolar adenocarcinoma
+,NSCLC,Adenocarcinoma,8310,Clear cell adenocarcinoma NOS
+,NSCLC,Adenocarcinoma,8490,Signet ring cell carcinoma
+,NSCLC,Adenocarcinoma,8323,Mixed cell adenocarcinoma
+,NSCLC,Adenocarcinoma,8570,Adenocarcinoma with squamous metaplasia
+,NSCLC,Adenocarcinoma,8211,Tubular adenocarcinoma
+,NSCLC,Adenocarcinoma,8141,Scirrhous adenocarcinoma
+,NSCLC,Adenocarcinoma,8440,Cystadenocarcinoma NOS
+,NSCLC,Adenocarcinoma,8143,Superficial spreading adenocarcinoma
+,NSCLC,Adenocarcinoma,8144,"Adenocarcinoma, intestinal type"
+,NSCLC,Adenocarcinoma,8147,Basal cell adenocarcinoma
+,NSCLC,Adenocarcinoma,8190,Trabecular adenocarcinoma
+,NSCLC,Adenocarcinoma,8201,Cribriform carcinoma
+,NSCLC,Adenocarcinoma,8252,Bronchioalvelolar carcinoma non mucinous
+,NSCLC,Adenocarcinoma,8320,Granular cell carcinoma
+,NSCLC,Adenocarcinoma,8401,Apocrine adenocarcinoma
+,NSCLC,Adenocarcinoma,8470,Mucinous cystadenocarcinoma NOS
+,NSCLC,Adenocarcinoma,8572,Adenocarcinoma with spindle cell metaplasia
+,NSCLC,Adenocarcinoma,8574,Adenocarcinoma with neuroendocrine differentiation
+,NSCLC,Squamous cell carcinoma,8070,Squamous cell carcinoma NOS
+,NSCLC,Squamous cell carcinoma,8071,"Squamous cell carcinoma, keratinising NOS"
+,NSCLC,Squamous cell carcinoma,8072,"Squamous cell carcinoma, large cell, non-keratinising"
+,NSCLC,Squamous cell carcinoma,8073,"Squamous cell carcinoma, small cell, non-keratinising"
+,NSCLC,Squamous cell carcinoma,8074,"Squamous cell carcinoma, spindle cell"
+,NSCLC,Squamous cell carcinoma,8052,Papillary squamous cell carcinoma
+,NSCLC,Squamous cell carcinoma,8083,Basaloid Squamous Cell carcinoma
+,NSCLC,Squamous cell carcinoma,8076,"Squamous cell carcinoma, microinvasive"
+,NSCLC,Carcinoid,8240,Carcinoid tumour NOS
+,NSCLC,Carcinoid,8249,Atypical carcinoid tumour
+,NSCLC,Carcinoid,8241,"Carcinoid tumour, argentaffin, malignant"
+,NSCLC,Carcinoid,8244,Composite carcinoid
+,NSCLC,Carcinoid,8243,Goblet cell carcinoid
+,NSCLC,Carcinoid,8245,Adenocarcinoid tumour
+,NSCLC,Other NSCLC,8046,"Non-small cell carcinoma, NOS"
+,NSCLC,Other NSCLC,8012,Large cell carcinoma NOS
+,NSCLC,Other NSCLC,8246,Neuroendocrine carcinoma
+,NSCLC,Other NSCLC,8560,Adenosquamous carcinoma
+,NSCLC,Other NSCLC,8032,Spindle cell carcinoma
+,NSCLC,Other NSCLC,8022,Pleomorphic carcinoma
+,NSCLC,Other NSCLC,8033,Pseudosarcomatous carcinoma
+,NSCLC,Other NSCLC,8200,Adenoid cystic carcinoma
+,NSCLC,Other NSCLC,8980,Carcinosarcoma NOS
+,NSCLC,Other NSCLC,8430,Mucoepidermoid carcinoma
+,NSCLC,Other NSCLC,8031,Giant cell carcinoma
+,NSCLC,Other NSCLC,8050,Papillary carcinoma NOS
+,NSCLC,Other NSCLC,8972,Pulmonary blastoma
+,NSCLC,Other NSCLC,8013,Large cell neuroendocrine
+,NSCLC,Other NSCLC,8123,Basaloid carcinoma
+,NSCLC,Other NSCLC,8940,"Mixed tumour, malignant NOS"
+,NSCLC,Other NSCLC,8075,Adenoid squamous cell carcinoma
+,NSCLC,Other NSCLC,8230,Solid carcinoma NOS
+,NSCLC,Other NSCLC,8255,Adenocarcinoma with mixed cell types
+,NSCLC,Other NSCLC,8030,Giant cell and spindle cell carcinoma
+,NSCLC,Other NSCLC,8034,Polygonal cell carcinoma
+,NSCLC,Other NSCLC,8082,Lymphoepithelial carcinoma
+,NSCLC,Other NSCLC,8145,"Carcinoma, diffuse type"
+,NSCLC,Other NSCLC,8562,Epithelial-myoepithelial carcinoma
+,Unspecified lung,Unspecified lung,8010,Carcinoma NOS
+,Unspecified lung,Unspecified lung,8000,"Neoplasm, malignant"
+,Unspecified lung,Unspecified lung,8020,"Carcinoma, undifferentiated NOS"
+,Unspecified lung,Unspecified lung,8021,"Carcinoma, anaplastic type NOS"
+,Unspecified lung,Unspecified lung,8001,"Tumour cells, malignant"
+,Unspecified lung,Unspecified lung,8004,"Malignant tumour, fusiform cell type"
+,Unspecified lung,Unspecified lung,8003,"Malignant tumour, giant cell type"

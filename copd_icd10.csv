@@ -1,0 +1,29 @@
+﻿metadata,icd_code,readterm
+Name: COPD_icd                               ,J41,Simple and mucopurulent chronic bronchitis
+Author: Marta Berglund                   ,J42,Unspecified chronic bronchitis
+Date: 2025-05-13                                 ,J43,Emphysema
+,J44,Other chronic obstructive pulmonary disease
+,J440,Chronic obstructive pulmonary disease with acute lower respiratory infection
+,J441,Chronic obstructive pulmonary disease with acute exacerbation - unspecified
+,J448,Other specified chronic obstructive pulmonary disease
+,J449,Chronic obstructive pulmonary disease - unspecified
+,J430,MacLeod syndrome
+,J431,Panlobular emphysema
+,J432,Centrilobular emphysema
+,J438,Other emphysema
+,J439,Emphysema - unspecified
+,J410,Simple chronic bronchitis
+,J411,Mucopurulent chronic bronchitis
+,J418,Mixed simple and mucopurulent chronic bronchitis
+,J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection
+,J44.1,Chronic obstructive pulmonary disease with acute exacerbation - unspecified
+,J44.8,Other specified chronic obstructive pulmonary disease
+,J44.9,Chronic obstructive pulmonary disease - unspecified
+,J43.0,MacLeod syndrome
+,J43.1,Panlobular emphysema
+,J43.2,Centrilobular emphysema
+,J43.8,Other emphysema
+,J43.9,Emphysema - unspecified
+,J41.0,Simple chronic bronchitis
+,J41.1,Mucopurulent chronic bronchitis
+,J41.8,Mixed simple and mucopurulent chronic bronchitis

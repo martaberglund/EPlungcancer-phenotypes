@@ -1,0 +1,169 @@
+﻿metadata,symptom_desc,medcode,readcode,readcode_desc
+Name: symptoms_cprd_gold,Dyspnoea,735,R060D00,[D]Breathlessness
+Author: Marta Berglund,Dyspnoea,741,R060800,[D]Shortness of breath
+Date: 2025-05-13,Dyspnoea,1429,173..00,Breathlessness
+Categories:,Dyspnoea,2563,R060600,[D]Respiratory distress
+1. Dyspnoea,Dyspnoea,2575,173C.00,Short of breath on exertion
+2. Fatigue,Dyspnoea,2931,1738,Difficulty breathing
+3. Haemoptysis,Dyspnoea,3092,R060A00,[D]Dyspnoea
+4. Weight loss,Dyspnoea,4822,1739,Shortness of breath
+5. Cough ,Dyspnoea,5175,173..11,Breathlessness symptom
+6. Appetite loss,Dyspnoea,5349,173..13,Shortness of breath symptom
+,Dyspnoea,5896,173..12,Dyspnoea - symptom
+,Dyspnoea,6326,1732,Breathless - moderate exertion
+,Dyspnoea,6434,1736,Paroxysmal nocturnal dyspnoea
+,Dyspnoea,7000,2322,O/E - dyspnoea
+,Dyspnoea,7683,1735,Breathless - lying flat
+,Dyspnoea,7932,1733,Breathless - mild exertion
+,Dyspnoea,9089,1735.11,Orthopnoea symptom
+,Dyspnoea,9297,R060700,[D]Respiratory insufficiency
+,Dyspnoea,11451,R060200,[D]Orthopnoea
+,Dyspnoea,12474,173C.12,SOBOE
+,Dyspnoea,18116,173D.00,Nocturnal dyspnoea
+,Dyspnoea,19426,173J.00,MRC Breathlessness Scale: grade 3
+,Dyspnoea,19427,173I.00,MRC Breathlessness Scale: grade 2
+,Dyspnoea,19429,173L.00,MRC Breathlessness Scale: grade 5
+,Dyspnoea,19430,173K.00,MRC Breathlessness Scale: grade 4
+,Dyspnoea,19432,173H.00,MRC Breathlessness Scale: grade 1
+,Dyspnoea,21801,173Z.00,Breathlessness NOS
+,Dyspnoea,22094,173F.00,Short of breath dressing/undressing
+,Dyspnoea,24889,173G.00,Breathless - strenuous exertion
+,Dyspnoea,27400,R060500,[D]Cheyne-Stokes respiration
+,Dyspnoea,31143,1734,Breathless - at rest
+,Dyspnoea,37704,2323,O/E - orthopnoea
+,Dyspnoea,42287,173V.00,Borg Breathlessness Score: 6 severe (+)
+,Dyspnoea,53771,173C.11,Dyspnoea on exertion
+,Dyspnoea,57193,173R.00,Borg Breathlessness Score: 3 moderate
+,Dyspnoea,57759,173Q.00,Borg Breathlessness Score: 2 slight
+,Dyspnoea,57903,388H.00,CLASP shortness of breath score
+,Dyspnoea,59860,173S.00,Borg Breathlessness Score: 4 somewhat severe
+,Dyspnoea,60096,ZR3Q.00,CLASP shortness of breath score
+,Dyspnoea,64049,173T.00,Borg Breathlessness Score: 5 severe
+,Dyspnoea,67566,173Y.00,"Borg Breathlessness Score: 9 very, very sev (almost maximal)"
+,Dyspnoea,68707,173P.00,Borg Breathlessness Score: 1 very slight
+,Dyspnoea,70061,173W.00,Borg Breathlessness Score: 7 very severe
+,Dyspnoea,70818,173N.00,"Borg Breathlessness Score: 0.5 very, very slight"
+,Dyspnoea,72334,173X.00,Borg Breathlessness Score: 8 very severe (+)
+,Dyspnoea,101843,173a.00,Borg Breathlessness Score: 10 maximal
+,Dyspnoea,108650,173g.00,Breathlessness causing difficulty eating
+,Dyspnoea,7534,2324,O/E - respiratory distress
+,Dyspnoea,107939,38Gb.00,"Dyspnoea,obstruction, smoking, exacerbation frequency index"
+,Fatigue,1042,R007400,[D]Postviral (asthenic) syndrome
+,Fatigue,1147,R007500,[D]Tiredness
+,Fatigue,1371,R007300,[D]Lethargy
+,Fatigue,1404,1682,Fatigue
+,Fatigue,1582,E205.11,Nervous exhaustion
+,Fatigue,1688,R007100,[D]Fatigue
+,Fatigue,1900,R2y3.00,"[D]Debility, unspecified"
+,Fatigue,2855,1B32.00,Weakness present
+,Fatigue,3361,E205.00,Neurasthenia - nervous debility
+,Fatigue,4546,F286.00,Chronic fatigue syndrome
+,Fatigue,5049,R007200,[D]Asthenia NOS
+,Fatigue,5583,168..12,Lethargy - symptom
+,Fatigue,5658,R007000,[D]Malaise
+,Fatigue,5751,1683,Tired all the time
+,Fatigue,5794,168..00,Tiredness symptom
+,Fatigue,5814,R007z11,[D]Lassitude
+,Fatigue,6029,1B3..12,Weakness symptoms
+,Fatigue,6190,F286.12,Postviral fatigue syndrome
+,Fatigue,6242,168..11,Fatigue - symptom
+,Fatigue,7235,E205.12,Tired all the time
+,Fatigue,7529,F286.11,CFS - Chronic fatigue syndrome
+,Fatigue,9127,F286.14,Post-viral fatigue syndrome
+,Fatigue,9220,1688,Exhaustion
+,Fatigue,9435,2254,O/E - apathetic
+,Fatigue,9656,Eu46011,[X]Fatigue syndrome
+,Fatigue,9823,1684.11,C/O - debility - malaise
+,Fatigue,9889,R007211,[D]General weakness
+,Fatigue,12411,R007411,[D]Post viral debility
+,Fatigue,15516,1683.11,C/O - 'tired all the time'
+,Fatigue,16479,2832.12,O/E - weakness
+,Fatigue,16561,Eu46000,[X]Neurasthenia
+,Fatigue,17736,1684,Malaise/lethargy
+,Fatigue,23932,R007z00,[D]Malaise and fatigue NOS
+,Fatigue,24382,R204.00,[D]Senile exhaustion
+,Fatigue,27877,F286.13,PVFS - Postviral fatigue syn
+,Fatigue,29292,168Z.00,Tiredness symptom NOS
+,Fatigue,44215,R007.00,[D]Malaise and fatigue
+,Fatigue,97284,F286100,Moderate chronic fatigue syndrome
+,Fatigue,98512,F286000,Mild chronic fatigue syndrome
+,Fatigue,98734,F286200,Severe chronic fatigue syndrome
+,Fatigue,99807,8HkW.00,Referral to chronic fatigue syndrome specialist team
+,Fatigue,97140,8Q1..00,Activity management for chronic fatigue syndrome
+,Fatigue,1816,168..13,Malaise - symptom
+,Haemoptysis,1610,172..12,Haemoptysis - symptom
+,Haemoptysis,2244,R063.00,[D]Haemoptysis
+,Haemoptysis,4135,172..00,Blood in sputum - haemoptysis
+,Haemoptysis,7285,R063100,[D]Pulmonary haemorrhage NOS
+,Haemoptysis,8239,R063000,[D]Cough with haemorrhage
+,Haemoptysis,10013,172..11,Blood in sputum - symptom
+,Haemoptysis,33742,R063z00,[D]Haemoptysis NOS
+,Weight loss,126,22A6.00,O/E - Underweight
+,Weight loss,654,1623,Weight decreasing
+,Weight loss,3647,R032.00,[D]Abnormal loss of weight
+,Weight loss,4663,1625,Abnormal weight loss
+,Weight loss,5812,1625.11,Abnormal weight loss - symptom
+,Weight loss,12398,1D1A.00,Complaining of weight loss
+,Weight loss,12530,R034800,[D]Underweight
+,Weight loss,22005,2224,O/E - cachexic
+,Weight loss,24068,R2y4.00,[D]Cachexia
+,Weight loss,36473,R2y4000,[D]Wasting disease
+,Weight loss,37937,22A8.00,Weight loss from baseline weight
+,Weight loss,38995,2287,Abnormally thin
+,Weight loss,53801,R2y4z00,[D]Cachexia NOS
+,Weight loss,102563,1627,Unintentional weight loss
+,Cough ,1160,R062.00,[D]Cough
+,Cough ,1025,1719.11,Bronchial cough
+,Cough ,763,A33..00,Whooping cough
+,Cough ,60903,1D87.00,Cough aggravates symptom
+,Cough ,53737,Eu45321,[X]Psychogenic hiccough
+,Cough ,7267,65VA.00,Notification of whooping cough
+,Cough ,19470,171J.00,Reflux cough
+,Cough ,18907,171F.00,Cough with fever
+,Cough ,47809,E261200,Psychogenic hiccough
+,Cough ,7707,171Z.00,Cough symptom NOS
+,Cough ,1273,171..11,C/O - cough
+,Cough ,26211,171G.00,Bovine cough
+,Cough ,53897,A33y.00,Whooping cough - other specified organism
+,Cough ,28538,S127100,Cough fracture of ribs
+,Cough ,11109,174..11,Hiccough symptom
+,Cough ,12715,Eu45316,[X]Psychogenic cough
+,Cough ,90332,171K.00,Barking cough
+,Cough ,54079,1742,Hiccough present
+,Cough ,1234,1716,Productive cough NOS
+,Cough ,29693,25P5.00,O/E-hernia-cough impulse shown
+,Cough ,16717,H310100,Smokers' cough
+,Cough ,3151,R068.00,[D]Hiccough
+,Cough ,292,1719,Chesty cough
+,Cough ,64286,A33yz00,Other whooping cough NOS
+,Cough ,22318,171H.00,Difficulty in coughing up sputum
+,Cough ,15483,E261100,Psychogenic cough
+,Cough ,7773,1714,Productive cough -green sputum
+,Cough ,4070,171C.00,Morning cough
+,Cough ,92,171..00,Cough
+,Cough ,7708,1715,Productive cough-yellow sputum
+,Cough ,3628,171B.00,Persistent cough
+,Cough ,9799,R062000,[D]Cough syncope
+,Cough ,3068,1717,Night cough present
+,Cough ,45336,ZV74B00,[V]Screening for whooping cough
+,Cough ,4931,1712,Dry cough
+,Cough ,8968,S120A00,Cough fracture
+,Cough ,4836,173B.00,Nocturnal cough / wheeze
+,Cough ,23550,655..11,Whooping cough vaccination
+,Cough ,7706,1713,Productive cough -clear sputum
+,Cough ,43795,171E.00,Unexplained cough
+,Cough ,15064,174..00,Hiccough
+,Cough ,42548,A33z.00,Whooping cough NOS
+,Cough ,7527,1419.11,H/O: whooping cough
+,Cough ,30437,H243.00,Pneumonia with whooping cough
+,Cough ,65031,174Z.00,Hiccough NOS
+,Cough ,3645,1716.11,Coughing up phlegm
+,Cough ,29318,171D.00,Evening cough
+,Cough ,1612,171A.00,Chronic cough
+,Cough ,13135,1718,Night cough absent
+,Cough ,30197,ZV03611,[V]Whooping cough vaccination
+,Appetite loss,1855,R030000,[D]Appetite loss
+,Appetite loss,7608,1612,Appetite loss - anorexia
+,Appetite loss,14717,161Z.00,Appetite symptom NOS
+,Appetite loss,6607,1612.12,Loss of appetite - symptom
+,Appetite loss,6099,161..00,Appetite symptom
