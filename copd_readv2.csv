@@ -1,0 +1,94 @@
+﻿metadata,readcode,readterm,medcode
+Name: COPD_cprd_gold                               ,14B3.12,History of chronic obstructive pulmonary disease,103494
+Source: CPRD                                       ,H310000,Chronic catarrhal bronchitis,15626
+Author: Marta Berglund                           ,H310.00,Simple chronic bronchitis,25603
+Date: 2025-05-13                                 ,H310z00,Simple chronic bronchitis NOS,61118
+,H311000,Purulent chronic bronchitis,40159
+,H311100,Fetid chronic bronchitis,37959
+,H311.00,Mucopurulent chronic bronchitis,11150
+,H311z00,Mucopurulent chronic bronchitis NOS,61513
+,H312000,Chronic asthmatic bronchitis,5798
+                                                   ,H312011,Chronic wheezy bronchitis,5909
+                                                   ,H312100,Emphysematous bronchitis,14798
+                                                   ,H312200,Acute exacerbation of chronic obstructive airways disease,1446
+                                                   ,H312300,Bronchiolitis obliterans,26125
+                                                   ,H312.00,Obstructive chronic bronchitis,27819
+                                                   ,H312z00,Obstructive chronic bronchitis NOS,44525
+                                                   ,H313.00,Mixed simple and mucopurulent chronic bronchitis,24248
+                                                   ,H31..00,Chronic bronchitis,3243
+                                                   ,H31y100,Chronic tracheobronchitis,45089
+                                                   ,H31y.00,Other chronic bronchitis,66043
+                                                   ,H31yz00,Other chronic bronchitis NOS,68066
+                                                   ,H31z.00,Chronic bronchitis NOS,15157
+                                                   ,H320000,Segmental bullous emphysema,56860
+                                                   ,H320100,Zonal bullous emphysema,68662
+                                                   ,H320200,Giant bullous emphysema,60188
+                                                   ,H320300,Bullous emphysema with collapse,99536
+                                                   ,H320.00,Chronic bullous emphysema,26306
+                                                   ,H320z00,Chronic bullous emphysema NOS,23492
+                                                   ,H321.00,Panlobular emphysema,46578
+                                                   ,H322.00,Centrilobular emphysema,10980
+                                                   ,H32..00,Emphysema,794
+                                                   ,H32y000,Acute vesicular emphysema,92955
+                                                   ,H32y100,Atrophic (senile) emphysema,70787
+                                                   ,H32y111,Acute interstitial emphysema,59263
+                                                   ,H32y200,MacLeod's unilateral emphysema,63479
+                                                   ,H32y.00,Other emphysema,40788
+                                                   ,H32yz00,Other emphysema NOS,16410
+                                                   ,H32z.00,Emphysema NOS,33450
+                                                   ,H36..00,Mild chronic obstructive pulmonary disease,10863
+                                                   ,H37..00,Moderate chronic obstructive pulmonary disease,10802
+                                                   ,H38..00,Severe chronic obstructive pulmonary disease,9876
+                                                   ,H39..00,Very severe chronic obstructive pulmonary disease,93568
+                                                   ,H3A..00,End stage chronic obstructive airways disease,104608
+                                                   ,H3...00,Chronic obstructive pulmonary disease,1001
+                                                   ,H3...11,Chronic obstructive airways disease,998
+                                                   ,H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn,21061
+                                                   ,H3y1.00,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",7884
+                                                   ,H3y..00,Other specified chronic obstructive airways disease,12166
+                                                   ,H3y..11,Other specified chronic obstructive pulmonary disease,67040
+                                                   ,H3z..00,Chronic obstructive airways disease NOS,5710
+                                                   ,H3z..11,Chronic obstructive pulmonary disease NOS,37247
+                                                   ,H464000,Chronic emphysema due to chemical fumes,64721
+                                                   ,H464100,Obliterative bronchiolitis due to chemical fumes,63216
+                                                   ,Hyu3000,[X]Other emphysema,66058
+                                                   ,Hyu3100,[X]Other specified chronic obstructive pulmonary disease,65733
+                                                   ,9h52.00,Excepted from COPD quality indicators: Informed dissent,11266
+                                                   ,8H2R.00,Admit COPD emergency,11019
+                                                   ,661N300,COPD self-management plan review,104169
+                                                   ,9NgP.11,On COPD (chr obstruc pulmonary disease) supportv cre pathway,104710
+                                                   ,8CeD.00,Preferred place of care for next exacerbation of COPD,103558
+                                                   ,66YI.00,COPD self-management plan given,18501
+                                                   ,9e03.00,GP OOH service notified of COPD care plan,104265
+                                                   ,66Yi.00,Multiple COPD emergency hospital admissions,46036
+                                                   ,66Yd.00,COPD accident and emergency attendance since last visit,19106
+                                                   ,66Yf.00,Number of COPD exacerbations in past year,28743
+                                                   ,66YL.11,COPD follow-up,18476
+                                                   ,9kf..00,COPD - enhanced services administration,97800
+                                                   ,9N4W.00,DNA - Did not attend COPD clinic,35303
+                                                   ,661M300,COPD self-management plan agreed,104117
+                                                   ,66Ye.00,Emergency COPD admission since last appointment,19003
+                                                   ,9kf0.11,COPD patient unsuitable for pulmonary rehabilitation,103864
+                                                   ,9Oi1.00,Chronic obstructive pulmonary disease monitoring 2nd letter,34202
+                                                   ,8IEZ.00,Chronic obstructive pulmonary disease rescue pack declined,106945
+                                                   ,9Oi2.00,Chronic obstructive pulmonary disease monitoring 3rd letter,34215
+                                                   ,66YD.00,Chronic obstructive pulmonary disease monitoring due,37371
+                                                   ,66YM.00,Chronic obstructive pulmonary disease annual review,11287
+                                                   ,9Oi3.00,Chronic obstructive pulmonary disease monitoring verb invite,42258
+                                                   ,66YT.00,Chronic obstructive pulmonary disease monitoring by doctor,45998
+                                                   ,9Oi4.00,Chronic obstructive pulmonary disease monitor phone invite,38074
+                                                   ,66YL.00,Chronic obstructive pulmonary disease follow-up,18621
+                                                   ,9NgP.00,On chronic obstructive pulmonary disease supprtv cre pathway,104985
+                                                   ,8CMV.00,Has chronic obstructive pulmonary disease care plan,104481
+                                                   ,8CR1.00,Chronic obstructive pulmonary disease clini management plan,45777
+                                                   ,66YS.00,Chronic obstructive pulmonary disease monitoring by nurse,26018
+                                                   ,66Yz200,Shared care chronic obstructive pulmonary disease monitoring,114534
+                                                   ,66Yh.00,Chronic obstructive pulmonary disease does not disturb sleep,45771
+                                                   ,8CMW500,Chronic obstructive pulmonary disease care pathway,105457
+                                                   ,66YB200,Telehealth chronic obstructive pulmonary disease monitoring,109774
+                                                   ,66YB.00,Chronic obstructive pulmonary disease monitoring,9520
+                                                   ,9Oi0.00,Chronic obstructive pulmonary disease monitoring 1st letter,28755
+                                                   ,66YB100,Chronic obstructive pulmonary disease 6 monthly review,103007
+                                                   ,66Yg.00,Chronic obstructive pulmonary disease disturbs sleep,45770
+                                                   ,66YB000,Chronic obstructive pulmonary disease 3 monthly review,102685
+                                                   ,H581.00,Interstitial emphysema,22905

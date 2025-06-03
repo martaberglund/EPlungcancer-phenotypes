@@ -1,0 +1,63 @@
+﻿metadata,category,procedure_name,procedure_code_ncip,procedure_code_snomed_ct
+Name: chest_imaging_ncip,Chest X-Ray,XR Chest and abdomen,XCHAB,420233006
+Author: Marta Berglund,Chest X-Ray,XR Chest,XCHES,399208008
+Date: 2025-05-13,Chest X-Ray,XR Thoracic inlet,XTHIN,168600009
+Categories:,Chest Computed Tomography,CT Angiogram pulmonary abdomen pelvis arteries,CAPAP,448766000
+1. Chest X-Ray,Chest Computed Tomography,CT Angiogram pulmonary,CAPUG,419225001
+2. Chest Computed Tomography,Chest Computed Tomography,CT Brain neck thorax abdomen pelvis,CBNTA,440331001
+,Chest Computed Tomography,CT Thorax and abdomen,CCABD,418891003
+,Chest Computed Tomography,CT Thorax and abdomen (contrast),CCABDC,429864007
+,Chest Computed Tomography,CT Thorax abdomen pelvis,CCHAP,418023006
+,Chest Computed Tomography,CT Thorax abdomen pelvis (contrast),CCHAPC,433761009
+,Chest Computed Tomography,CT Thorax,CCHES,169069000
+,Chest Computed Tomography,CT Thorax (contrast),CCHESC,75385009
+,Chest Computed Tomography,CT Head neck thorax abdomen,CHNTA,711278009
+,Chest Computed Tomography,CT Head neck thorax abdomen (contrast),CHNTAC,448760006
+,Chest Computed Tomography,CT Head neck thorax abdomen pelvis,CHNTAP,440331001
+,Chest Computed Tomography,CT Head neck thorax abdomen pelvis (contrast),CHNTPC,444630003
+,Chest Computed Tomography,CT Chest high resolution,CHRC,3.16E+14
+,Chest Computed Tomography,CT Chest high resolution (contrast),CHRCHC,75385009
+,Chest Computed Tomography,CT Head thorax and abdomen,CHTA,444633001
+,Chest Computed Tomography,CT Head thorax abdomen pelvis,CHTAP,445583005
+,Chest Computed Tomography,CT Head thorax abdomen pelvis (contrast),CHTAPC,444674001
+,Chest Computed Tomography,CT Head and thorax,CHTH,444708006
+,Chest Computed Tomography,CT Head thorax abdomen (contrast),CHTHAC,444758004
+,Chest Computed Tomography,CT Head and thorax (contrast),CHTHC,444709003
+,Chest Computed Tomography,CT Low dose thorax,CLDTH,713548006
+,Chest Computed Tomography,CT Neck thorax abdomen (contrast),CNCAC,433270008
+,Chest Computed Tomography,CT Neck thorax abdomen pelvis,CNCAP,418332004
+,Chest Computed Tomography,CT Neck thorax abdomen pelvis (contrast),CNCAPC,434438003
+,Chest Computed Tomography,CT Neck thorax abdomen,CNCHA,430439002
+,Chest Computed Tomography,CT Neck and thorax,CNECH,430448007
+,Chest Computed Tomography,CT Neck and thorax (contrast),CNECHC,429927002
+,Chest X-Ray,XR Chest and abdomen,XCHAB,420233006
+,Chest X-Ray,XR Chest,XCHES,399208008
+,Chest X-Ray,XR Thoracic inlet,XTHIN,168600009
+,Chest Computed Tomography,CT Angiogram pulmonary abdomen pelvis arteries,CAPAP,448766000
+,Chest Computed Tomography,CT Angiogram pulmonary,CAPUG,419225001
+,Chest Computed Tomography,CT Brain neck thorax abdomen pelvis,CBNTA,440331001
+,Chest Computed Tomography,CT Thorax and abdomen,CCABD,418891003
+,Chest Computed Tomography,CT Thorax and abdomen (contrast),CCABDC,429864007
+,Chest Computed Tomography,CT Thorax abdomen pelvis,CCHAP,418023006
+,Chest Computed Tomography,CT Thorax abdomen pelvis (contrast),CCHAPC,433761009
+,Chest Computed Tomography,CT Thorax,CCHES,169069000
+,Chest Computed Tomography,CT Thorax (contrast),CCHESC,75385009
+,Chest Computed Tomography,CT Head neck thorax abdomen,CHNTA,711278009
+,Chest Computed Tomography,CT Head neck thorax abdomen (contrast),CHNTAC,448760006
+,Chest Computed Tomography,CT Head neck thorax abdomen pelvis,CHNTAP,440331001
+,Chest Computed Tomography,CT Head neck thorax abdomen pelvis (contrast),CHNTPC,444630003
+,Chest Computed Tomography,CT Chest high resolution,CHRC,3.16E+14
+,Chest Computed Tomography,CT Chest high resolution (contrast),CHRCHC,75385009
+,Chest Computed Tomography,CT Head thorax and abdomen,CHTA,444633001
+,Chest Computed Tomography,CT Head thorax abdomen pelvis,CHTAP,445583005
+,Chest Computed Tomography,CT Head thorax abdomen pelvis (contrast),CHTAPC,444674001
+,Chest Computed Tomography,CT Head and thorax,CHTH,444708006
+,Chest Computed Tomography,CT Head thorax abdomen (contrast),CHTHAC,444758004
+,Chest Computed Tomography,CT Head and thorax (contrast),CHTHC,444709003
+,Chest Computed Tomography,CT Low dose thorax,CLDTH,713548006
+,Chest Computed Tomography,CT Neck thorax abdomen (contrast),CNCAC,433270008
+,Chest Computed Tomography,CT Neck thorax abdomen pelvis,CNCAP,418332004
+,Chest Computed Tomography,CT Neck thorax abdomen pelvis (contrast),CNCAPC,434438003
+,Chest Computed Tomography,CT Neck thorax abdomen,CNCHA,430439002
+,Chest Computed Tomography,CT Neck and thorax,CNECH,430448007
+,Chest Computed Tomography,CT Neck and thorax (contrast),CNECHC,429927002
