@@ -1,4 +1,5 @@
 # Codelists for Healthcare Use by Diagnostic Routes Prior to Lung Cancer Diagnosis
+<a href="https://doi.org/10.5281/zenodo.15592564"><img src="https://zenodo.org/badge/995495661.svg" alt="DOI"></a>
 
 This repository contains curated and adapted codelists of Read v2, SNOMED, ICD-10, and ICD-O-3 codes for variables included in a study on pre-diagnostic healthcare use before lung cancer diagnosis. These codelists were collated from multiple sources and code browsers. Original sources have been cited, and adapted versions are included only where changes were made. Users are encouraged to cite the original work where applicable.
 
